@@ -1,7 +1,7 @@
 # Machine Learning Engineering Zoomcamp 2022
 
 - [x] 1- Introduction to Machine Learning  
-2 - [] Machine Learning for Regression  
+✅: 2 - [] Machine Learning for Regression  
 3 - [] Machine Learning for Classification  
 4 - [] Evaluation Metrics for Classification  
 5 - [] Deploying Machine Learning Models  
