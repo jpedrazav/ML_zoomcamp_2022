@@ -1,23 +1,23 @@
 # Machine Learning Engineering Zoomcamp 2022
 
-Introduction to Machine Learning  
-Machine Learning for Regression  
-Machine Learning for Classification  
-Evaluation Metrics for Classification  
-Deploying Machine Learning Models  
-Bento ML  
-Decision Trees and Ensemble Learning  
-Midterm Project  
-Midterm Project Evaluation  
-Neural Networks and Deep Learning  
-Serverless Deep Learning  
-Kubernetes and TensorFlow-Serving  
-Kubeflow and KFServing  
-Capstone Project  
-Capstone Project Evaluation  
-The third Project  
-The third Project Evaluation  
-Article  
+1 - [x] Introduction to Machine Learning  
+2 - [] Machine Learning for Regression  
+3 - [] Machine Learning for Classification  
+4 - [] Evaluation Metrics for Classification  
+5 - [] Deploying Machine Learning Models  
+6 - [] Bento ML  
+7 - [] Decision Trees and Ensemble Learning  
+8 - [] Midterm Project  
+9 - [] Midterm Project Evaluation  
+10 - [] Neural Networks and Deep Learning  
+11 - [] Serverless Deep Learning  
+12 - [] Kubernetes and TensorFlow-Serving  
+13 - [] Kubeflow and KFServing  
+14 - [] Capstone Project  
+15 - [] Capstone Project Evaluation  
+16 - [] The third Project  
+17 - [] The third Project Evaluation  
+18 - [] Article  
 
 Collapsible List idea:
 https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
