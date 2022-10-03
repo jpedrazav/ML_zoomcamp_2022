@@ -1,9 +1,9 @@
 # Machine Learning Engineering Zoomcamp 2022
 
-- [x] 1- Introduction to Machine Learning  
-✅: 2 - [] Machine Learning for Regression  
-3 - [] Machine Learning for Classification  
-4 - [] Evaluation Metrics for Classification  
+✅: 1 - [x] Introduction to Machine Learning  
+✅: 2 - [x] Machine Learning for Regression  
+✅: 3 - [x] Machine Learning for Classification  
+✅: 4 - x[] Evaluation Metrics for Classification  
 5 - [] Deploying Machine Learning Models  
 6 - [] Bento ML  
 7 - [] Decision Trees and Ensemble Learning  
