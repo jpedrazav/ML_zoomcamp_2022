@@ -12,6 +12,22 @@
 pipenv, version 2022.10.4
 ```
 
+## Question 2
+
+* Use Pipenv to install Scikit-Learn version 1.0.2
+* What's the first hash for scikit-learn you get in Pipfile.lock?
+
+Note: you should create an empty folder for homework
+and do it there. 
+
+> The first hash is: 
+
+  ```terminal
+
+  "sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b"
+
+  ```
+
 # Machine Learning Engineering Zoomcamp 2022
 
 ✅: 1 - [x] Introduction to Machine Learning  
