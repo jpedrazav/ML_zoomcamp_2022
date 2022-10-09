@@ -23,10 +23,40 @@ and do it there.
 > The first hash is: 
 
   ```terminal
-
   "sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b"
-
   ```
+
+## Models
+
+We've prepared a dictionary vectorizer and a model.
+
+They were trained (roughly) using this code:
+
+```python
+features = ['reports', 'share', 'expenditure', 'owner']
+dicts = df[features].to_dict(orient='records')
+
+dv = DictVectorizer(sparse=False)
+X = dv.fit_transform(dicts)
+
+model = LogisticRegression(solver='liblinear').fit(X, y)
+```
+
+> **Note**: You don't need to train the model. This code is just for your reference.
+
+And then saved with Pickle. Download them:
+
+* [DictVectorizer](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/05-deployment/homework/dv.bin?raw=true)
+* [LogisticRegression](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/05-deployment/homework/model1.bin?raw=true)
+
+With `wget`:
+
+```bash
+PREFIX=https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/course-zoomcamp/cohorts/2022/05-deployment/homework
+wget $PREFIX/model1.bin
+wget $PREFIX/dv.bin
+```
+
 
 # Machine Learning Engineering Zoomcamp 2022
 
