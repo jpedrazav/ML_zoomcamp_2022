@@ -57,7 +57,7 @@ With `wget`:
   wget $PREFIX/dv.bin
   ```
   
-Question 3
+## Question 3
 Let's use these models!
 
 Write a script for loading these models with pickle
@@ -73,7 +73,7 @@ What's the probability that this client will get a credit card?
 > The answer is 0.162
 
   
-Question 4
+## Question 4
 Now let's serve this model as a web service
 
 Install Flask and gunicorn (or waitress, if you're on Windows)
