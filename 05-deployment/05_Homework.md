@@ -72,6 +72,7 @@ What's the probability that this client will get a credit card?
 
 > The answer is 0.162
 
+  
 Question 4
 Now let's serve this model as a web service
 
