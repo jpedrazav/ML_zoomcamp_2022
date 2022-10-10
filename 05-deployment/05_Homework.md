@@ -10,7 +10,7 @@
 > The version is 
 ```terminal
 pipenv, version 2022.10.4
-```
+```  
 
 ## Question 2
 
@@ -24,7 +24,7 @@ and do it there.
 
   ```terminal
   "sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b"
-  ```
+  ```  
 
 ## Models
 
@@ -56,7 +56,7 @@ PREFIX=https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/c
 wget $PREFIX/model1.bin
 wget $PREFIX/dv.bin
 ```
-
+  
 Question 3
 Let's use these models!
 
