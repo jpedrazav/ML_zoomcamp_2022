@@ -51,11 +51,11 @@ And then saved with Pickle. Download them:
 
 With `wget`:
 
-```bash
-PREFIX=https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/course-zoomcamp/cohorts/2022/05-deployment/homework
-wget $PREFIX/model1.bin
-wget $PREFIX/dv.bin
-```
+  ```bash
+  PREFIX=https://raw.githubusercontent.com/alexeygrigorev/mlbookcamp-code/master/course-zoomcamp/cohorts/2022/05-deployment/homework
+  wget $PREFIX/model1.bin
+  wget $PREFIX/dv.bin
+  ```
   
 Question 3
 Let's use these models!
