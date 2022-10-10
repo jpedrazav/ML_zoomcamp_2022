@@ -57,6 +57,56 @@ wget $PREFIX/model1.bin
 wget $PREFIX/dv.bin
 ```
 
+Question 3
+Let's use these models!
+
+Write a script for loading these models with pickle
+Score this client:
+{"reports": 0, "share": 0.001694, "expenditure": 0.12, "owner": "yes"}
+What's the probability that this client will get a credit card?
+
+0.162
+0.391
+0.601
+0.993
+
+> The answer is 0.162
+
+Question 4
+Now let's serve this model as a web service
+
+Install Flask and gunicorn (or waitress, if you're on Windows)
+Write Flask code for serving the model
+Now score this client using requests:
+url = "YOUR_URL"
+client = {"reports": 0, "share": 0.245, "expenditure": 3.438, "owner": "yes"}
+requests.post(url, json=client).json()
+What's the probability that this client will get a credit card?
+
+0.274
+0.484
+0.698
+0.928
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Machine Learning Engineering Zoomcamp 2022
 
