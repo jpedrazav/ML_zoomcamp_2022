@@ -70,7 +70,7 @@ What's the probability that this client will get a credit card?
 0.601
 0.993
 
-> The answer is 0.162
+> The answer is 0.162 (check code predict.py)
 
   
 ## Question 4
