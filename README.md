@@ -4,9 +4,9 @@
 ✅: 2 - [x] Machine Learning for Regression  
 ✅: 3 - [x] Machine Learning for Classification  
 ✅: 4 - x[] Evaluation Metrics for Classification  
-5 - [] Deploying Machine Learning Models  
+✅: 5 - [] Deploying Machine Learning Models  
 6 - [] Bento ML  
-7 - [] Decision Trees and Ensemble Learning  
+✅: 7 - [] Decision Trees and Ensemble Learning  
 8 - [] Midterm Project  
 9 - [] Midterm Project Evaluation  
 10 - [] Neural Networks and Deep Learning  
